@@ -35,7 +35,7 @@ To view your new website, visit the URL provided in your site settings or type i
 <Checklist>
 
 <ChecklistItem id="deploy-your-project">
-I deployed my app to the Netfly.
+I deployed my app to Netlify.
 </ChecklistItem>
 
 </Checklist>
