@@ -73,11 +73,10 @@ title: List of Packages
 -  `@pankod/refine-react-table` - [React Table](https://tanstack.com/table/v8) integration. Powerful tables & datagrids for your headless projects. 
 -  `@pankod/refine-react-hook-form` - [React Hook Form](https://react-hook-form.com/) integration. Extensible forms and validation for your projects.
 
-### React Frameworks
- `NextJS` - SSR and SSG support for your projects.
+### [React](https://reactjs.org/) Frameworks
 
-### React Frameworks
- `Remix` - SSR support for your projects.
+- [`NextJS`](https://nextjs.org/) - SSR and SSG support for your projects.
+- [`Remix`](https://remix.run/) - SSR support for your projects.
 
 ### ❤️ Community Packages:
 
